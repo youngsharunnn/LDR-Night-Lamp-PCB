@@ -6,3 +6,5 @@
 *.lck
 _autosave-*
 #auto_saved_files#
+*-backups/
+fp-info-cache
