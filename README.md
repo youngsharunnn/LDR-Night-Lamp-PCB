@@ -88,7 +88,29 @@ Before releasing the PCB:
 
 ## Screenshots
 
-*To be added.*
+### Schematic
+
+![Schematic](docs/schematic.png)
+
+### PCB Layout
+
+![PCB Layout](docs/pcb_layout.png)
+
+### 3D Top View
+
+![3D Top View](docs/top_view.png)
+
+### 3D Bottom View
+
+![3D Bottom View](docs/bottom_view.png)
+
+### 3D Front View
+
+![3D Front View](docs/front_view.png)
+
+### 3D Side View
+
+![3D Side View](docs/side_view.png)
 
 ---
 
