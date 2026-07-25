@@ -5,6 +5,6 @@
 *.kicad_pcb-bak
 *.lck
 _autosave-*
-#auto_saved_files#
+\#auto_saved_files\#
 *-backups/
 fp-info-cache
