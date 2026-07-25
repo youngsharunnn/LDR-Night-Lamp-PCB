@@ -82,7 +82,16 @@ Before releasing the PCB:
 
 ## Documentation
 
-*To be added.*
+The `docs/` folder contains screenshots and visual documentation of the project. These images provide an overview of the PCB design and are used throughout this README for better visualization.
+
+Current documentation includes:
+
+* Schematic
+* PCB Layout
+* 3D Top View
+* 3D Bottom View
+* 3D Front View
+* 3D Side View
 
 ---
 
