@@ -42,13 +42,23 @@ The circuit uses an **LDR** and a resistor to create a voltage divider that sens
 ```text
 LDR-Night-Lamp-PCB/
 │
+├── docs/
+│   ├── images/                          # Project screenshots used in the README
+│   └── tutorials/                       # Project guides and workflow documentation
+│
 ├── kicad/
 │   └── LDR_Night_Lamp/
 │       ├── LDR_Night_Lamp.kicad_pro
 │       ├── LDR_Night_Lamp.kicad_sch
 │       └── LDR_Night_Lamp.kicad_pcb
 │
-├── docs/
+├── Production/
+│   ├── BOM/
+│   ├── gerber_and_drill
+│   ├── PDF/
+│   ├── position/
+│   └── STEP/
+│
 ├── README.md
 └── .gitignore
 ```
@@ -82,16 +92,10 @@ Before releasing the PCB:
 
 ## Documentation
 
-The `docs/` folder contains screenshots and visual documentation of the project. These images provide an overview of the PCB design and are used throughout this README for better visualization.
+The `docs/` folder contains project documentation and visual assets.
 
-Current documentation includes:
-
-* Schematic
-* PCB Layout
-* 3D Top View
-* 3D Bottom View
-* 3D Front View
-* 3D Side View
+* **images/** – Screenshots of the schematic, PCB layout, and 3D views used throughout this README.
+* **tutorials/** – Markdown guides documenting the complete KiCad design workflow, Git/GitHub version control process, and manufacturing file generation.
 
 ---
 
@@ -99,27 +103,27 @@ Current documentation includes:
 
 ### Schematic
 
-![Schematic](docs/schematic.png)
+![Schematic](docs/images/schematic.png)
 
 ### PCB Layout
 
-![PCB Layout](docs/pcb_layout.png)
+![PCB Layout](docs/images/pcb_layout.png)
 
 ### 3D Top View
 
-![3D Top View](docs/top_view.png)
+![3D Top View](docs/images/top_view.png)
 
 ### 3D Bottom View
 
-![3D Bottom View](docs/bottom_view.png)
+![3D Bottom View](docs/images/bottom_view.png)
 
 ### 3D Front View
 
-![3D Front View](docs/front_view.png)
+![3D Front View](docs/images/front_view.png)
 
 ### 3D Side View
 
-![3D Side View](docs/side_view.png)
+![3D Side View](docs/images/side_view.png)
 
 ---
 
@@ -134,3 +138,4 @@ Current documentation includes:
 *To be added.*
 
 ---
+
