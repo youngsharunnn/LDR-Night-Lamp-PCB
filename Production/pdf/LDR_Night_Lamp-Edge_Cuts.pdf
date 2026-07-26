@@ -1,0 +1,482 @@
+%PDF-1.5
+%ÄÅÇÉ
+5 0 obj
+<< /Length 6 0 R /Filter /FlateDecode >>
+stream
+x⁄}ÃK
+A–}ü"'IOÂw¡ÂxÇ87^ﬂi	ÅP/î∞Htí«ºœ„FJ˚±Áß–ıÙ:÷%/p8›⁄ó˝H¥ÿ”∆3ÄËH¡»J4Ÿ≤{m-t‰\@füÌ2wp7-ØaSÁ?˚Ë<¥;«]10
+endstream
+endobj
+6 0 obj
+117
+endobj
+17 0 obj
+[7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R]
+endobj
+18 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources <<
+    /ProcSet [/PDF /Text /ImageC /ImageB]
+    /Font 2 0 R
+    /XObject 3 0 R >>
+/MediaBox [0 0 841.896 595.296]
+/Contents 5 0 R
+/Annots 17 0 R>>
+endobj
+19 0 obj
+<</S /GoTo /D [18 0 R /Fit]
+>>
+endobj
+22 0 obj
+<</S /GoTo /D [18 0 R /FitR 318 325 334 313]
+>>
+endobj
+24 0 obj
+<</S /GoTo /D [18 0 R /FitR 475 342 521 307]
+>>
+endobj
+26 0 obj
+<</S /GoTo /D [18 0 R /FitR 245 467 563 284]
+>>
+endobj
+28 0 obj
+<</S /GoTo /D [18 0 R /FitR 477 447 504 348]
+>>
+endobj
+30 0 obj
+<</S /GoTo /D [18 0 R /FitR 474 376 523 339]
+>>
+endobj
+32 0 obj
+<</S /GoTo /D [18 0 R /FitR 475 353 521 325]
+>>
+endobj
+34 0 obj
+<</S /GoTo /D [18 0 R /FitR 471 447 521 348]
+>>
+endobj
+36 0 obj
+<</S /GoTo /D [18 0 R /FitR 393 358 417 324]
+>>
+endobj
+38 0 obj
+<</S /GoTo /D [18 0 R /FitR 369 402 440 368]
+>>
+endobj
+40 0 obj
+<</S /GoTo /D [18 0 R /FitR 383 385 427 340]
+>>
+endobj
+42 0 obj
+<< /BaseFont /Helvetica
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+43 0 obj
+<< /BaseFont /Helvetica-Oblique
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+44 0 obj
+<< /BaseFont /Helvetica-Bold
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+45 0 obj
+<< /BaseFont /Helvetica-BoldOblique
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+    /KicadFont 42 0 R
+    /KicadFontI 43 0 R
+    /KicadFontB 44 0 R
+    /KicadFontBI 45 0 R
+>>
+endobj
+3 0 obj
+<<
+>>
+endobj
+7 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [322.72 316.405 330.456 322.749]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = G***"],
+["Value = LOGO"],
+["Footprint = LOGO"],
+]\);) >>
+>>
+endobj
+8 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [494.093 316.154 510.279 329.619]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = R2"],
+["Value = LDR07"],
+["Footprint = R_LDR_5.1x4.3mm_P3.4mm_Vertical"],
+["http://www.tme.eu/de/Document/f2e3ad76a925811312d226c31da4cd7e/LDR07.pdf", "http://www.tme.eu/de/Document/f2e3ad76a925811312d226c31da4cd7e/LDR07.pdf"],
+["Description = light dependent resistor"],
+]\);) >>
+>>
+endobj
+9 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [325.318 330.044 484.03 421.943]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = BT1"],
+["Value = 9V"],
+["Footprint = BatteryHolder_MPD_BA9VPC_1xPP3"],
+["Datasheet = ~"],
+["Description = Multiple-cell battery"],
+["Sim.Device = V"],
+["Sim.Type = DC"],
+["Sim.Pins = 1=+ 2=-"],
+]\);) >>
+>>
+endobj
+10 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [488.792 373.357 497.438 422.652]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = R1"],
+["Value = 100k"],
+["Footprint = R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"],
+["Datasheet = ~"],
+["Description = Resistor"],
+]\);) >>
+>>
+endobj
+11 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [493.214 349.15 511.583 367.49]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = D1"],
+["Value = LED"],
+["Footprint = LED_D5.0mm"],
+["Datasheet = ~"],
+["Description = Light emitting diode"],
+["Sim.Pins = 1=K 2=A"],
+]\);) >>
+>>
+endobj
+12 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [494.575 332.709 510.194 346.287]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = Q1"],
+["Value = BC547"],
+["Footprint = TO-92_Inline"],
+["https://www.onsemi.com/pub/Collateral/BC550-D.pdf", "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"],
+["Description = 0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"],
+["Sim.Device = NPN"],
+["Sim.Pins = 1=C 2=B 3=E"],
+]\);) >>
+>>
+endobj
+13 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [500.272 373.357 508.918 422.652]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = R3"],
+["Value = 470R"],
+["Footprint = R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"],
+["Datasheet = ~"],
+["Description = Resistor"],
+]\);) >>
+>>
+endobj
+14 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [399.343 333.113 411.326 350.128]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = REF**"],
+["Value = WEEE-Logo_4.2x6mm_SilkScreen"],
+["Footprint = WEEE-Logo_4.2x6mm_SilkScreen"],
+]\);) >>
+>>
+endobj
+15 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [387.516 377.006 423.161 393.986]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = REF**"],
+["Value = KiCad-Logo2_5mm_SilkScreen"],
+["Footprint = KiCad-Logo2_5mm_SilkScreen"],
+]\);) >>
+>>
+endobj
+16 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [394.49 351.468 416.167 374.214]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = REF**"],
+["Value = OSHW-Logo_7.5x8mm_SilkScreen"],
+["Footprint = OSHW-Logo_7.5x8mm_SilkScreen"],
+]\);) >>
+>>
+endobj
+4 0 obj
+<< /JavaScript
+ << /Names
+    [ (JSInit) << /Type /Action /S /JavaScript /JS (
+function ShM\(aEntries\) {
+    var aParams = [];
+    for \(var i in aEntries\) {
+        aParams.push\({
+            cName: aEntries[i][0],
+            cReturn: aEntries[i][1]
+        }\)
+    }
+
+    var cChoice = app.popUpMenuEx.apply\(app, aParams\);
+    if \(cChoice != null && cChoice.substring\(0, 1\) == '#'\) this.pageNum = parseInt\(cChoice.slice\(1\)\);
+    else if \(cChoice != null && cChoice.substring\(0, 4\) == 'http'\) app.launchURL\(cChoice\);
+    else if \(cChoice != null && cChoice.substring\(0, 4\) == 'file'\) app.openDoc\(cChoice.substring\(7\)\);
+}
+) >> ]
+ >>
+>>
+endobj
+1 0 obj
+<<
+/Type /Pages
+/Kids [
+18 0 R
+]
+/Count 1
+>>
+endobj
+46 0 obj
+<<
+/Producer (KiCad PDF)
+/CreationDate (D:20260726194015)
+/Creator (PCBNEW)
+/Title (LDR_Night_Lamp-Edge_Cuts.pdf)
+/Author ()
+/Subject ()
+>>
+endobj
+27 0 obj
+<<
+/Title (BT1)
+/Parent 21 0 R
+/Next 31 0 R
+/A 26 0 R
+>>
+endobj
+31 0 obj
+<<
+/Title (D1)
+/Parent 21 0 R
+/Next 23 0 R
+/Prev 27 0 R
+/A 30 0 R
+>>
+endobj
+23 0 obj
+<<
+/Title (G***)
+/Parent 21 0 R
+/Next 33 0 R
+/Prev 31 0 R
+/A 22 0 R
+>>
+endobj
+33 0 obj
+<<
+/Title (Q1)
+/Parent 21 0 R
+/Next 29 0 R
+/Prev 23 0 R
+/A 32 0 R
+>>
+endobj
+29 0 obj
+<<
+/Title (R1)
+/Parent 21 0 R
+/Next 25 0 R
+/Prev 33 0 R
+/A 28 0 R
+>>
+endobj
+25 0 obj
+<<
+/Title (R2)
+/Parent 21 0 R
+/Next 35 0 R
+/Prev 29 0 R
+/A 24 0 R
+>>
+endobj
+35 0 obj
+<<
+/Title (R3)
+/Parent 21 0 R
+/Next 37 0 R
+/Prev 25 0 R
+/A 34 0 R
+>>
+endobj
+37 0 obj
+<<
+/Title (REF**)
+/Parent 21 0 R
+/Next 39 0 R
+/Prev 35 0 R
+/A 36 0 R
+>>
+endobj
+39 0 obj
+<<
+/Title (REF**)
+/Parent 21 0 R
+/Next 41 0 R
+/Prev 37 0 R
+/A 38 0 R
+>>
+endobj
+41 0 obj
+<<
+/Title (REF**)
+/Parent 21 0 R
+/Prev 39 0 R
+/A 40 0 R
+>>
+endobj
+21 0 obj
+<<
+/Title (Footprints)
+/Parent 20 0 R
+/Count -10
+/First 27 0 R
+/Last 41 0 R
+/A 19 0 R
+>>
+endobj
+20 0 obj
+<<
+/Title (Edge.Cuts \(Page 9\))
+/Parent 47 0 R
+/Count -1
+/First 21 0 R
+/Last 21 0 R
+/A 19 0 R
+>>
+endobj
+47 0 obj
+<< /Type /Outlines
+   /Count 12
+   /First 20 0 R
+   /Last 20 0 R
+>>
+endobj
+48 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/Version /1.5
+/PageMode /UseOutlines
+/Outlines 47 0 R
+/Names 4 0 R
+/PageLayout /SinglePage
+>>
+endobj
+xref
+0 49
+0000000000 65535 f 
+0000005845 00000 n 
+0000001654 00000 n 
+0000001767 00000 n 
+0000005166 00000 n 
+0000000015 00000 n 
+0000000206 00000 n 
+0000001788 00000 n 
+0000002023 00000 n 
+0000002483 00000 n 
+0000002864 00000 n 
+0000003191 00000 n 
+0000003512 00000 n 
+0000003986 00000 n 
+0000004313 00000 n 
+0000004599 00000 n 
+0000004881 00000 n 
+0000000225 00000 n 
+0000000310 00000 n 
+0000000514 00000 n 
+0000007002 00000 n 
+0000006897 00000 n 
+0000000561 00000 n 
+0000006219 00000 n 
+0000000625 00000 n 
+0000006476 00000 n 
+0000000689 00000 n 
+0000006061 00000 n 
+0000000753 00000 n 
+0000006391 00000 n 
+0000000817 00000 n 
+0000006134 00000 n 
+0000000881 00000 n 
+0000006306 00000 n 
+0000000945 00000 n 
+0000006561 00000 n 
+0000001009 00000 n 
+0000006646 00000 n 
+0000001073 00000 n 
+0000006734 00000 n 
+0000001137 00000 n 
+0000006822 00000 n 
+0000001201 00000 n 
+0000001308 00000 n 
+0000001423 00000 n 
+0000001535 00000 n 
+0000005905 00000 n 
+0000007116 00000 n 
+0000007200 00000 n 
+trailer
+<< /Size 49 /Root 48 0 R /Info 46 0 R >>
+startxref
+7341
+%%EOF
