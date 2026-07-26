@@ -141,9 +141,21 @@ The `Production/` directory contains all files required for PCB fabrication, ass
 
 ---
 
-## Releases
+## Release
 
-*To be added.*
+The first stable release of the project is available as **v1.0.0 – Initial Production Release**.
+
+This release contains all files required for PCB fabrication, assembly, and documentation.
+
+### Included Assets
+
+* Gerber & Drill files (`LDR_Night_Lamp_Gerbers_v1.0.0.zip`)
+* Bill of Materials (BOM)
+* Pick-and-Place (PnP) file
+* Schematic PDF
+* PCB Layout PDF
+* 3D STEP model
+
+Download the latest release from the repository's **Releases** page to access the complete manufacturing package.
 
 ---
-
