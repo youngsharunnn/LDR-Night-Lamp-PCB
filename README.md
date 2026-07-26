@@ -55,7 +55,7 @@ LDR-Night-Lamp-PCB/
 ├── Production/
 │   ├── BOM/
 │   ├── gerber_and_drill
-│   ├── PDF/
+│   ├── pdf/
 │   ├── position/
 │   └── STEP/
 │
@@ -129,7 +129,15 @@ The `docs/` folder contains project documentation and visual assets.
 
 ## Manufacturing Files
 
-*To be added.*
+The `Production/` directory contains all files required for PCB fabrication, assembly, and project documentation.
+
+| Folder                | Description                                                                                        |
+| --------------------- | -------------------------------------------------------------------------------------------------- |
+| **BOM/**              | Bill of Materials (CSV) listing all components required to assemble the PCB.                       |
+| **gerber_and_drill/** | Gerber files, drill files, and Gerber job file used by PCB manufacturers for board fabrication.    |
+| **PDF/**              | Exported schematic and PCB layout PDFs for documentation, design review, and printing.             |
+| **position/**         | Pick-and-Place (PnP) file containing component positions and rotations for automated PCB assembly. |
+| **STEP/**             | 3D STEP model of the assembled PCB for mechanical verification and enclosure design.               |
 
 ---
 
