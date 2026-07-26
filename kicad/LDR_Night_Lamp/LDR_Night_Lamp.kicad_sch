@@ -990,26 +990,26 @@
 		)
 	)
 	(junction
-		(at 142.24 106.68)
+		(at 204.47 163.83)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1983cb78-445a-4320-ac31-deb1ec529148")
 	)
 	(junction
-		(at 142.24 86.36)
+		(at 204.47 143.51)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6fa34f0e-73b1-40b1-948f-2a0326d70a11")
 	)
 	(junction
-		(at 142.24 50.8)
+		(at 204.47 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f40f4d75-5c09-4863-b736-38e102a6cb5f")
 	)
 	(wire
 		(pts
-			(xy 115.57 62.23) (xy 115.57 50.8)
+			(xy 177.8 119.38) (xy 177.8 107.95)
 		)
 		(stroke
 			(width 0)
@@ -1019,7 +1019,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 86.36) (xy 157.48 86.36)
+			(xy 204.47 143.51) (xy 219.71 143.51)
 		)
 		(stroke
 			(width 0)
@@ -1029,7 +1029,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 62.23) (xy 142.24 86.36)
+			(xy 204.47 119.38) (xy 204.47 143.51)
 		)
 		(stroke
 			(width 0)
@@ -1039,7 +1039,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 50.8) (xy 142.24 50.8)
+			(xy 177.8 107.95) (xy 204.47 107.95)
 		)
 		(stroke
 			(width 0)
@@ -1049,7 +1049,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 106.68) (xy 142.24 102.87)
+			(xy 204.47 163.83) (xy 204.47 160.02)
 		)
 		(stroke
 			(width 0)
@@ -1059,7 +1059,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 72.39) (xy 115.57 106.68)
+			(xy 177.8 129.54) (xy 177.8 163.83)
 		)
 		(stroke
 			(width 0)
@@ -1069,7 +1069,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 60.96) (xy 165.1 67.31)
+			(xy 227.33 118.11) (xy 227.33 124.46)
 		)
 		(stroke
 			(width 0)
@@ -1079,7 +1079,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 106.68) (xy 142.24 106.68)
+			(xy 177.8 163.83) (xy 204.47 163.83)
 		)
 		(stroke
 			(width 0)
@@ -1089,7 +1089,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 106.68) (xy 142.24 106.68)
+			(xy 227.33 163.83) (xy 204.47 163.83)
 		)
 		(stroke
 			(width 0)
@@ -1099,7 +1099,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 50.8) (xy 165.1 50.8)
+			(xy 204.47 107.95) (xy 227.33 107.95)
 		)
 		(stroke
 			(width 0)
@@ -1109,7 +1109,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 50.8) (xy 142.24 54.61)
+			(xy 204.47 107.95) (xy 204.47 111.76)
 		)
 		(stroke
 			(width 0)
@@ -1119,7 +1119,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 74.93) (xy 165.1 81.28)
+			(xy 227.33 132.08) (xy 227.33 138.43)
 		)
 		(stroke
 			(width 0)
@@ -1129,7 +1129,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 86.36) (xy 142.24 95.25)
+			(xy 204.47 143.51) (xy 204.47 152.4)
 		)
 		(stroke
 			(width 0)
@@ -1139,7 +1139,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 91.44) (xy 165.1 106.68)
+			(xy 227.33 148.59) (xy 227.33 163.83)
 		)
 		(stroke
 			(width 0)
@@ -1149,7 +1149,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 50.8) (xy 165.1 53.34)
+			(xy 227.33 107.95) (xy 227.33 110.49)
 		)
 		(stroke
 			(width 0)
@@ -1159,7 +1159,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 165.1 57.15 0)
+		(at 227.33 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1168,7 +1168,7 @@
 		(fields_autoplaced yes)
 		(uuid "19661a7f-3e54-4d15-a656-f2ce8816a0bd")
 		(property "Reference" "R3"
-			(at 167.64 55.8799 0)
+			(at 229.87 113.0299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1177,7 +1177,7 @@
 			)
 		)
 		(property "Value" "470R"
-			(at 167.64 58.4199 0)
+			(at 229.87 115.5699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1186,7 +1186,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
-			(at 163.322 57.15 90)
+			(at 225.552 114.3 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1195,7 +1195,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 165.1 57.15 0)
+			(at 227.33 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1204,7 +1204,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 165.1 57.15 0)
+			(at 227.33 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1229,7 +1229,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC547")
-		(at 162.56 86.36 0)
+		(at 224.79 143.51 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1238,7 +1238,7 @@
 		(fields_autoplaced yes)
 		(uuid "4317dc1d-0e87-4804-9219-c74b03ea8be4")
 		(property "Reference" "Q1"
-			(at 167.64 85.0899 0)
+			(at 229.87 142.2399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1247,7 +1247,7 @@
 			)
 		)
 		(property "Value" "BC547"
-			(at 167.64 87.6299 0)
+			(at 229.87 144.7799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1256,7 +1256,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
-			(at 167.64 88.265 0)
+			(at 229.87 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1267,7 +1267,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
-			(at 162.56 86.36 0)
+			(at 224.79 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1277,7 +1277,7 @@
 			)
 		)
 		(property "Description" "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
-			(at 162.56 86.36 0)
+			(at 224.79 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1286,7 +1286,7 @@
 			)
 		)
 		(property "Sim.Device" "NPN"
-			(at 162.56 86.36 0)
+			(at 224.79 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1295,7 +1295,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=C 2=B 3=E"
-			(at 162.56 86.36 0)
+			(at 224.79 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1323,7 +1323,7 @@
 	)
 	(symbol
 		(lib_id "Sensor_Optical:LDR07")
-		(at 142.24 99.06 0)
+		(at 204.47 156.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1332,7 +1332,7 @@
 		(fields_autoplaced yes)
 		(uuid "4f806d6d-9cdc-4c1c-8f60-ad4ba9279c11")
 		(property "Reference" "R2"
-			(at 144.78 97.7899 0)
+			(at 207.01 154.9399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1341,7 +1341,7 @@
 			)
 		)
 		(property "Value" "LDR07"
-			(at 144.78 100.3299 0)
+			(at 207.01 157.4799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1350,7 +1350,7 @@
 			)
 		)
 		(property "Footprint" "OptoDevice:R_LDR_5.1x4.3mm_P3.4mm_Vertical"
-			(at 146.685 99.06 90)
+			(at 208.915 156.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1359,7 +1359,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.tme.eu/de/Document/f2e3ad76a925811312d226c31da4cd7e/LDR07.pdf"
-			(at 142.24 100.33 0)
+			(at 204.47 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1368,7 +1368,7 @@
 			)
 		)
 		(property "Description" "light dependent resistor"
-			(at 142.24 99.06 0)
+			(at 204.47 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1393,7 +1393,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 165.1 71.12 90)
+		(at 227.33 128.27 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1402,7 +1402,7 @@
 		(fields_autoplaced yes)
 		(uuid "6a51c367-62b9-4d48-aa0b-c88038090263")
 		(property "Reference" "D1"
-			(at 168.91 71.4374 90)
+			(at 231.14 128.5874 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1411,7 +1411,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 168.91 73.9774 90)
+			(at 231.14 131.1274 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1420,7 +1420,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_D5.0mm"
-			(at 165.1 71.12 0)
+			(at 227.33 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1429,7 +1429,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 165.1 71.12 0)
+			(at 227.33 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1438,7 +1438,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 165.1 71.12 0)
+			(at 227.33 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1447,7 +1447,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 165.1 71.12 0)
+			(at 227.33 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1472,7 +1472,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 142.24 58.42 180)
+		(at 204.47 115.57 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1481,7 +1481,7 @@
 		(fields_autoplaced yes)
 		(uuid "6dc46ce5-4c98-4136-ad0a-e48544d0defc")
 		(property "Reference" "R1"
-			(at 144.78 57.1499 0)
+			(at 207.01 114.2999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1490,7 +1490,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 144.78 59.6899 0)
+			(at 207.01 116.8399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1499,7 +1499,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
-			(at 144.018 58.42 90)
+			(at 206.248 115.57 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1508,7 +1508,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 142.24 58.42 0)
+			(at 204.47 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1517,7 +1517,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 142.24 58.42 0)
+			(at 204.47 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1542,7 +1542,7 @@
 	)
 	(symbol
 		(lib_id "Device:Battery")
-		(at 115.57 67.31 0)
+		(at 177.8 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1551,7 +1551,7 @@
 		(fields_autoplaced yes)
 		(uuid "a093d064-5ee9-4308-9b2e-5a128e60afa4")
 		(property "Reference" "BT1"
-			(at 119.38 65.4684 0)
+			(at 181.61 122.6184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1560,7 +1560,7 @@
 			)
 		)
 		(property "Value" "9V"
-			(at 119.38 68.0084 0)
+			(at 181.61 125.1584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1569,7 +1569,7 @@
 			)
 		)
 		(property "Footprint" "Battery:BatteryHolder_MPD_BA9VPC_1xPP3"
-			(at 115.57 65.786 90)
+			(at 177.8 122.936 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1578,7 +1578,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 115.57 65.786 90)
+			(at 177.8 122.936 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1587,7 +1587,7 @@
 			)
 		)
 		(property "Description" "Multiple-cell battery"
-			(at 115.57 67.31 0)
+			(at 177.8 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1596,7 +1596,7 @@
 			)
 		)
 		(property "Sim.Device" "V"
-			(at 115.57 67.31 0)
+			(at 177.8 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1605,7 +1605,7 @@
 			)
 		)
 		(property "Sim.Type" "DC"
-			(at 115.57 67.31 0)
+			(at 177.8 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1614,7 +1614,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=+ 2=-"
-			(at 115.57 67.31 0)
+			(at 177.8 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
