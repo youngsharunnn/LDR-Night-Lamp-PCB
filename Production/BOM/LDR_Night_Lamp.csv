@@ -1,0 +1,7 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"BT1","1","9V","","","","Battery:BatteryHolder_MPD_BA9VPC_1xPP3","~"
+"D1","1","LED","","","","LED_THT:LED_D5.0mm","~"
+"Q1","1","BC547","","","","Package_TO_SOT_THT:TO-92_Inline","https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
+"R1","1","100k","","","","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal","~"
+"R2","1","LDR07","","","","OptoDevice:R_LDR_5.1x4.3mm_P3.4mm_Vertical","http://www.tme.eu/de/Document/f2e3ad76a925811312d226c31da4cd7e/LDR07.pdf"
+"R3","1","470R","","","","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal","~"
